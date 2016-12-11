@@ -1,0 +1,646 @@
+year,away_team,away_score,home_team,home_score
+1903,Pittsburgh Pirates,7,Boston Americans,3
+1903,Pittsburgh Pirates,0,Boston Americans,3
+1903,Pittsburgh Pirates,4,Boston Americans,2
+1903,Boston Americans,4,Pittsburgh Pirates,5
+1903,Boston Americans,11,Pittsburgh Pirates,2
+1903,Boston Americans,6,Pittsburgh Pirates,3
+1903,Boston Americans,7,Pittsburgh Pirates,3
+1903,Pittsburgh Pirates,0,Boston Americans,3
+1905,New York Giants,3,Philadelphia Athletics,0
+1905,Philadelphia Athletics,3,New York Giants,0
+1905,New York Giants,9,Philadelphia Athletics,0
+1905,Philadelphia Athletics,0,New York Giants,1
+1905,Philadelphia Athletics,0,New York Giants,2
+1906,Chicago White Sox,2,Chicago Cubs,1
+1906,Chicago Cubs,7,Chicago White Sox,1
+1906,Chicago White Sox,3,Chicago Cubs,0
+1906,Chicago Cubs,1,Chicago White Sox,0
+1906,Chicago White Sox,8,Chicago Cubs,6
+1906,Chicago Cubs,3,Chicago White Sox,8
+1907,Detroit Tigers,3,Chicago Cubs,3
+1907,Detroit Tigers,1,Chicago Cubs,3
+1907,Detroit Tigers,1,Chicago Cubs,5
+1907,Chicago Cubs,6,Detroit Tigers,1
+1907,Chicago Cubs,2,Detroit Tigers,0
+1908,Chicago Cubs,10,Detroit Tigers,6
+1908,Detroit Tigers,1,Chicago Cubs,6
+1908,Detroit Tigers,8,Chicago Cubs,3
+1908,Chicago Cubs,3,Detroit Tigers,0
+1908,Chicago Cubs,2,Detroit Tigers,0
+1909,Detroit Tigers,1,Pittsburgh Pirates,4
+1909,Detroit Tigers,7,Pittsburgh Pirates,2
+1909,Pittsburgh Pirates,8,Detroit Tigers,6
+1909,Pittsburgh Pirates,0,Detroit Tigers,5
+1909,Detroit Tigers,4,Pittsburgh Pirates,8
+1909,Pittsburgh Pirates,4,Detroit Tigers,5
+1909,Pittsburgh Pirates,8,Detroit Tigers,0
+1910,Chicago Cubs,1,Philadelphia Athletics,4
+1910,Chicago Cubs,3,Philadelphia Athletics,9
+1910,Philadelphia Athletics,12,Chicago Cubs,5
+1910,Philadelphia Athletics,3,Chicago Cubs,4
+1910,Philadelphia Athletics,7,Chicago Cubs,2
+1911,Philadelphia Athletics,1,New York Giants,2
+1911,New York Giants,1,Philadelphia Athletics,3
+1911,Philadelphia Athletics,3,New York Giants,2
+1911,New York Giants,2,Philadelphia Athletics,4
+1911,Philadelphia Athletics,3,New York Giants,4
+1911,New York Giants,2,Philadelphia Athletics,13
+1912,Boston Red Sox,4,New York Giants,3
+1912,New York Giants,6,Boston Red Sox,6
+1912,New York Giants,2,Boston Red Sox,1
+1912,Boston Red Sox,3,New York Giants,1
+1912,New York Giants,1,Boston Red Sox,2
+1912,Boston Red Sox,2,New York Giants,5
+1912,New York Giants,11,Boston Red Sox,4
+1912,New York Giants,2,Boston Red Sox,3
+1913,Philadelphia Athletics,6,New York Giants,4
+1913,New York Giants,3,Philadelphia Athletics,0
+1913,Philadelphia Athletics,8,New York Giants,2
+1913,New York Giants,5,Philadelphia Athletics,6
+1913,Philadelphia Athletics,3,New York Giants,1
+1914,Boston Braves,7,Philadelphia Athletics,1
+1914,Boston Braves,1,Philadelphia Athletics,0
+1914,Philadelphia Athletics,4,Boston Braves,5
+1914,Philadelphia Athletics,1,Boston Braves,3
+1915,Boston Red Sox,1,Philadelphia Phillies,3
+1915,Boston Red Sox,2,Philadelphia Phillies,1
+1915,Philadelphia Phillies,1,Boston Red Sox,2
+1915,Philadelphia Phillies,1,Boston Red Sox,2
+1915,Boston Red Sox,5,Philadelphia Phillies,4
+1916,Brooklyn Robins,5,Boston Red Sox,6
+1916,Brooklyn Robins,1,Boston Red Sox,2
+1916,Boston Red Sox,3,Brooklyn Robins,4
+1916,Boston Red Sox,6,Brooklyn Robins,2
+1916,Brooklyn Robins,1,Boston Red Sox,4
+1917,New York Giants,1,Chicago White Sox,2
+1917,New York Giants,2,Chicago White Sox,7
+1917,Chicago White Sox,0,New York Giants,2
+1917,Chicago White Sox,0,New York Giants,5
+1917,New York Giants,5,Chicago White Sox,8
+1917,Chicago White Sox,4,New York Giants,2
+1918,Boston Red Sox,1,Chicago Cubs,0
+1918,Boston Red Sox,1,Chicago Cubs,3
+1918,Boston Red Sox,2,Chicago Cubs,1
+1918,Chicago Cubs,2,Boston Red Sox,3
+1918,Chicago Cubs,3,Boston Red Sox,0
+1918,Chicago Cubs,1,Boston Red Sox,2
+1919,Chicago White Sox,1,Cincinnati Reds,9
+1919,Chicago White Sox,2,Cincinnati Reds,4
+1919,Cincinnati Reds,0,Chicago White Sox,3
+1919,Cincinnati Reds,2,Chicago White Sox,0
+1919,Cincinnati Reds,5,Chicago White Sox,0
+1919,Chicago White Sox,5,Cincinnati Reds,4
+1919,Chicago White Sox,4,Cincinnati Reds,1
+1919,Cincinnati Reds,10,Chicago White Sox,5
+1920,Cleveland Indians,3,Brooklyn Robins,1
+1920,Cleveland Indians,0,Brooklyn Robins,3
+1920,Cleveland Indians,1,Brooklyn Robins,2
+1920,Brooklyn Robins,1,Cleveland Indians,5
+1920,Brooklyn Robins,1,Cleveland Indians,8
+1920,Brooklyn Robins,0,Cleveland Indians,1
+1920,Brooklyn Robins,0,Cleveland Indians,3
+1921,New York Yankees,3,New York Giants,0
+1921,New York Giants,0,New York Yankees,3
+1921,New York Yankees,5,New York Giants,13
+1921,New York Giants,4,New York Yankees,2
+1921,New York Yankees,3,New York Giants,1
+1921,New York Giants,8,New York Yankees,5
+1921,New York Yankees,1,New York Giants,2
+1921,New York Giants,1,New York Yankees,0
+1922,New York Yankees,2,New York Giants,3
+1922,New York Giants,3,New York Yankees,3
+1922,New York Yankees,0,New York Giants,3
+1922,New York Giants,4,New York Yankees,3
+1922,New York Yankees,3,New York Giants,5
+1923,New York Giants,5,New York Yankees,4
+1923,New York Yankees,4,New York Giants,2
+1923,New York Giants,1,New York Yankees,0
+1923,New York Yankees,8,New York Giants,4
+1923,New York Giants,1,New York Yankees,8
+1923,New York Yankees,6,New York Giants,4
+1924,New York Giants,4,Washington Senators,3
+1924,New York Giants,3,Washington Senators,4
+1924,Washington Senators,4,New York Giants,6
+1924,Washington Senators,7,New York Giants,4
+1924,Washington Senators,2,New York Giants,6
+1924,New York Giants,1,Washington Senators,2
+1924,New York Giants,3,Washington Senators,4
+1925,Washington Senators,4,Pittsburgh Pirates,1
+1925,Washington Senators,2,Pittsburgh Pirates,3
+1925,Pittsburgh Pirates,3,Washington Senators,4
+1925,Pittsburgh Pirates,0,Washington Senators,4
+1925,Pittsburgh Pirates,6,Washington Senators,3
+1925,Washington Senators,2,Pittsburgh Pirates,3
+1925,Washington Senators,7,Pittsburgh Pirates,9
+1926,St. Louis Cardinals,1,New York Yankees,2
+1926,St. Louis Cardinals,6,New York Yankees,2
+1926,New York Yankees,0,St. Louis Cardinals,4
+1926,New York Yankees,10,St. Louis Cardinals,5
+1926,New York Yankees,3,St. Louis Cardinals,2
+1926,St. Louis Cardinals,10,New York Yankees,2
+1926,St. Louis Cardinals,3,New York Yankees,2
+1927,New York Yankees,5,Pittsburgh Pirates,4
+1927,New York Yankees,6,Pittsburgh Pirates,2
+1927,Pittsburgh Pirates,1,New York Yankees,8
+1927,Pittsburgh Pirates,3,New York Yankees,4
+1928,St. Louis Cardinals,1,New York Yankees,4
+1928,St. Louis Cardinals,3,New York Yankees,9
+1928,New York Yankees,7,St. Louis Cardinals,3
+1928,New York Yankees,7,St. Louis Cardinals,3
+1929,Philadelphia Athletics,3,Chicago Cubs,1
+1929,Philadelphia Athletics,9,Chicago Cubs,3
+1929,Chicago Cubs,3,Philadelphia Athletics,1
+1929,Chicago Cubs,8,Philadelphia Athletics,10
+1929,Chicago Cubs,2,Philadelphia Athletics,3
+1930,St. Louis Cardinals,2,Philadelphia Athletics,5
+1930,St. Louis Cardinals,1,Philadelphia Athletics,6
+1930,Philadelphia Athletics,0,St. Louis Cardinals,5
+1930,Philadelphia Athletics,1,St. Louis Cardinals,3
+1930,Philadelphia Athletics,2,St. Louis Cardinals,0
+1930,St. Louis Cardinals,1,Philadelphia Athletics,7
+1931,Philadelphia Athletics,6,St. Louis Cardinals,2
+1931,Philadelphia Athletics,0,St. Louis Cardinals,2
+1931,St. Louis Cardinals,5,Philadelphia Athletics,2
+1931,St. Louis Cardinals,0,Philadelphia Athletics,3
+1931,St. Louis Cardinals,5,Philadelphia Athletics,1
+1931,Philadelphia Athletics,8,St. Louis Cardinals,1
+1931,Philadelphia Athletics,2,St. Louis Cardinals,4
+1932,Chicago Cubs,6,New York Yankees,12
+1932,Chicago Cubs,2,New York Yankees,5
+1932,New York Yankees,7,Chicago Cubs,5
+1932,New York Yankees,13,Chicago Cubs,6
+1933,Washington Senators,2,New York Giants,4
+1933,Washington Senators,1,New York Giants,6
+1933,New York Giants,0,Washington Senators,4
+1933,New York Giants,2,Washington Senators,1
+1933,New York Giants,4,Washington Senators,3
+1934,St. Louis Cardinals,8,Detroit Tigers,3
+1934,St. Louis Cardinals,2,Detroit Tigers,3
+1934,Detroit Tigers,1,St. Louis Cardinals,4
+1934,Detroit Tigers,10,St. Louis Cardinals,4
+1934,Detroit Tigers,3,St. Louis Cardinals,1
+1934,St. Louis Cardinals,4,Detroit Tigers,3
+1934,St. Louis Cardinals,11,Detroit Tigers,0
+1935,Chicago Cubs,3,Detroit Tigers,0
+1935,Chicago Cubs,3,Detroit Tigers,8
+1935,Detroit Tigers,6,Chicago Cubs,5
+1935,Detroit Tigers,2,Chicago Cubs,1
+1935,Detroit Tigers,1,Chicago Cubs,3
+1935,Chicago Cubs,3,Detroit Tigers,4
+1936,New York Yankees,1,New York Giants,6
+1936,New York Yankees,18,New York Giants,4
+1936,New York Giants,1,New York Yankees,2
+1936,New York Giants,2,New York Yankees,5
+1936,New York Giants,5,New York Yankees,4
+1936,New York Yankees,13,New York Giants,5
+1937,New York Giants,1,New York Yankees,8
+1937,New York Giants,1,New York Yankees,8
+1937,New York Yankees,5,New York Giants,1
+1937,New York Yankees,3,New York Giants,7
+1937,New York Yankees,4,New York Giants,2
+1938,New York Yankees,3,Chicago Cubs,1
+1938,New York Yankees,6,Chicago Cubs,3
+1938,Chicago Cubs,2,New York Yankees,5
+1938,Chicago Cubs,3,New York Yankees,8
+1939,Cincinnati Reds,1,New York Yankees,2
+1939,Cincinnati Reds,0,New York Yankees,4
+1939,New York Yankees,7,Cincinnati Reds,3
+1939,New York Yankees,7,Cincinnati Reds,4
+1940,Detroit Tigers,7,Cincinnati Reds,2
+1940,Detroit Tigers,3,Cincinnati Reds,5
+1940,Cincinnati Reds,4,Detroit Tigers,7
+1940,Cincinnati Reds,5,Detroit Tigers,2
+1940,Cincinnati Reds,0,Detroit Tigers,8
+1940,Detroit Tigers,0,Cincinnati Reds,4
+1940,Detroit Tigers,1,Cincinnati Reds,2
+1941,Brooklyn Dodgers,2,New York Yankees,3
+1941,Brooklyn Dodgers,3,New York Yankees,2
+1941,New York Yankees,2,Brooklyn Dodgers,1
+1941,New York Yankees,7,Brooklyn Dodgers,4
+1941,New York Yankees,3,Brooklyn Dodgers,1
+1942,New York Yankees,7,St. Louis Cardinals,4
+1942,New York Yankees,3,St. Louis Cardinals,4
+1942,St. Louis Cardinals,2,New York Yankees,0
+1942,St. Louis Cardinals,9,New York Yankees,6
+1942,St. Louis Cardinals,4,New York Yankees,2
+1943,St. Louis Cardinals,2,New York Yankees,4
+1943,St. Louis Cardinals,4,New York Yankees,3
+1943,St. Louis Cardinals,2,New York Yankees,6
+1943,New York Yankees,2,St. Louis Cardinals,1
+1943,New York Yankees,2,St. Louis Cardinals,0
+1944,St. Louis Browns,2,St. Louis Cardinals,1
+1944,St. Louis Browns,2,St. Louis Cardinals,3
+1944,St. Louis Cardinals,2,St. Louis Browns,6
+1944,St. Louis Cardinals,5,St. Louis Browns,1
+1944,St. Louis Cardinals,2,St. Louis Browns,0
+1944,St. Louis Browns,1,St. Louis Cardinals,3
+1945,Chicago Cubs,9,Detroit Tigers,0
+1945,Chicago Cubs,1,Detroit Tigers,4
+1945,Chicago Cubs,3,Detroit Tigers,0
+1945,Detroit Tigers,4,Chicago Cubs,1
+1945,Detroit Tigers,8,Chicago Cubs,4
+1945,Detroit Tigers,7,Chicago Cubs,8
+1945,Detroit Tigers,9,Chicago Cubs,3
+1946,Boston Red Sox,3,St. Louis Cardinals,2
+1946,Boston Red Sox,0,St. Louis Cardinals,3
+1946,St. Louis Cardinals,0,Boston Red Sox,4
+1946,St. Louis Cardinals,12,Boston Red Sox,3
+1946,St. Louis Cardinals,3,Boston Red Sox,6
+1946,Boston Red Sox,1,St. Louis Cardinals,4
+1946,Boston Red Sox,3,St. Louis Cardinals,4
+1947,Brooklyn Dodgers,3,New York Yankees,5
+1947,Brooklyn Dodgers,3,New York Yankees,10
+1947,New York Yankees,8,Brooklyn Dodgers,9
+1947,New York Yankees,2,Brooklyn Dodgers,3
+1947,New York Yankees,2,Brooklyn Dodgers,1
+1947,Brooklyn Dodgers,8,New York Yankees,6
+1947,Brooklyn Dodgers,2,New York Yankees,5
+1948,Cleveland Indians,0,Boston Braves,1
+1948,Cleveland Indians,4,Boston Braves,1
+1948,Boston Braves,0,Cleveland Indians,2
+1948,Boston Braves,1,Cleveland Indians,2
+1948,Boston Braves,11,Cleveland Indians,5
+1948,Cleveland Indians,4,Boston Braves,3
+1949,Brooklyn Dodgers,0,New York Yankees,1
+1949,Brooklyn Dodgers,1,New York Yankees,0
+1949,New York Yankees,4,Brooklyn Dodgers,3
+1949,New York Yankees,6,Brooklyn Dodgers,4
+1949,New York Yankees,10,Brooklyn Dodgers,6
+1950,New York Yankees,1,Philadelphia Phillies,0
+1950,New York Yankees,2,Philadelphia Phillies,1
+1950,Philadelphia Phillies,2,New York Yankees,3
+1950,Philadelphia Phillies,2,New York Yankees,5
+1951,New York Giants,5,New York Yankees,1
+1951,New York Giants,1,New York Yankees,3
+1951,New York Yankees,2,New York Giants,6
+1951,New York Yankees,6,New York Giants,2
+1951,New York Yankees,13,New York Giants,1
+1951,New York Giants,3,New York Yankees,4
+1952,New York Yankees,2,Brooklyn Dodgers,4
+1952,New York Yankees,7,Brooklyn Dodgers,1
+1952,Brooklyn Dodgers,5,New York Yankees,3
+1952,Brooklyn Dodgers,0,New York Yankees,2
+1952,Brooklyn Dodgers,6,New York Yankees,5
+1952,New York Yankees,3,Brooklyn Dodgers,2
+1952,New York Yankees,4,Brooklyn Dodgers,2
+1953,Brooklyn Dodgers,5,New York Yankees,9
+1953,Brooklyn Dodgers,2,New York Yankees,4
+1953,New York Yankees,2,Brooklyn Dodgers,3
+1953,New York Yankees,3,Brooklyn Dodgers,7
+1953,New York Yankees,11,Brooklyn Dodgers,7
+1953,Brooklyn Dodgers,3,New York Yankees,4
+1954,Cleveland Indians,2,New York Giants,5
+1954,Cleveland Indians,1,New York Giants,3
+1954,New York Giants,6,Cleveland Indians,2
+1954,New York Giants,7,Cleveland Indians,4
+1955,Brooklyn Dodgers,5,New York Yankees,6
+1955,Brooklyn Dodgers,2,New York Yankees,4
+1955,New York Yankees,3,Brooklyn Dodgers,8
+1955,New York Yankees,5,Brooklyn Dodgers,8
+1955,New York Yankees,3,Brooklyn Dodgers,5
+1955,Brooklyn Dodgers,1,New York Yankees,5
+1955,Brooklyn Dodgers,2,New York Yankees,0
+1956,New York Yankees,3,Brooklyn Dodgers,6
+1956,New York Yankees,8,Brooklyn Dodgers,13
+1956,Brooklyn Dodgers,3,New York Yankees,5
+1956,Brooklyn Dodgers,2,New York Yankees,6
+1956,Brooklyn Dodgers,0,New York Yankees,2
+1956,New York Yankees,0,Brooklyn Dodgers,1
+1956,New York Yankees,9,Brooklyn Dodgers,0
+1957,Milwaukee Braves,1,New York Yankees,3
+1957,Milwaukee Braves,4,New York Yankees,2
+1957,New York Yankees,12,Milwaukee Braves,3
+1957,New York Yankees,5,Milwaukee Braves,7
+1957,New York Yankees,0,Milwaukee Braves,1
+1957,Milwaukee Braves,2,New York Yankees,3
+1957,Milwaukee Braves,5,New York Yankees,0
+1958,New York Yankees,3,Milwaukee Braves,4
+1958,New York Yankees,5,Milwaukee Braves,13
+1958,Milwaukee Braves,0,New York Yankees,4
+1958,Milwaukee Braves,3,New York Yankees,0
+1958,Milwaukee Braves,0,New York Yankees,7
+1958,New York Yankees,4,Milwaukee Braves,3
+1958,New York Yankees,6,Milwaukee Braves,2
+1959,Los Angeles Dodgers,0,Chicago White Sox,11
+1959,Los Angeles Dodgers,4,Chicago White Sox,3
+1959,Chicago White Sox,1,Los Angeles Dodgers,3
+1959,Chicago White Sox,4,Los Angeles Dodgers,5
+1959,Chicago White Sox,1,Los Angeles Dodgers,0
+1959,Los Angeles Dodgers,9,Chicago White Sox,3
+1960,New York Yankees,4,Pittsburgh Pirates,6
+1960,New York Yankees,16,Pittsburgh Pirates,3
+1960,Pittsburgh Pirates,0,New York Yankees,10
+1960,Pittsburgh Pirates,3,New York Yankees,2
+1960,Pittsburgh Pirates,5,New York Yankees,2
+1960,New York Yankees,12,Pittsburgh Pirates,0
+1960,New York Yankees,9,Pittsburgh Pirates,10
+1961,Cincinnati Reds,0,New York Yankees,2
+1961,Cincinnati Reds,6,New York Yankees,2
+1961,New York Yankees,3,Cincinnati Reds,2
+1961,New York Yankees,7,Cincinnati Reds,0
+1961,New York Yankees,13,Cincinnati Reds,5
+1962,New York Yankees,6,San Francisco Giants,2
+1962,New York Yankees,0,San Francisco Giants,2
+1962,San Francisco Giants,2,New York Yankees,3
+1962,San Francisco Giants,7,New York Yankees,3
+1962,San Francisco Giants,3,New York Yankees,5
+1962,New York Yankees,2,San Francisco Giants,5
+1962,New York Yankees,1,San Francisco Giants,0
+1963,Los Angeles Dodgers,5,New York Yankees,2
+1963,Los Angeles Dodgers,4,New York Yankees,1
+1963,New York Yankees,0,Los Angeles Dodgers,1
+1963,New York Yankees,1,Los Angeles Dodgers,2
+1964,New York Yankees,5,St. Louis Cardinals,9
+1964,New York Yankees,8,St. Louis Cardinals,3
+1964,St. Louis Cardinals,1,New York Yankees,2
+1964,St. Louis Cardinals,4,New York Yankees,3
+1964,St. Louis Cardinals,5,New York Yankees,2
+1964,New York Yankees,8,St. Louis Cardinals,3
+1964,New York Yankees,5,St. Louis Cardinals,7
+1965,Los Angeles Dodgers,2,Minnesota Twins,8
+1965,Los Angeles Dodgers,1,Minnesota Twins,5
+1965,Minnesota Twins,0,Los Angeles Dodgers,4
+1965,Minnesota Twins,2,Los Angeles Dodgers,7
+1965,Minnesota Twins,0,Los Angeles Dodgers,7
+1965,Los Angeles Dodgers,1,Minnesota Twins,5
+1965,Los Angeles Dodgers,2,Minnesota Twins,0
+1966,Baltimore Orioles,5,Los Angeles Dodgers,2
+1966,Baltimore Orioles,6,Los Angeles Dodgers,0
+1966,Los Angeles Dodgers,0,Baltimore Orioles,1
+1966,Los Angeles Dodgers,0,Baltimore Orioles,1
+1967,St. Louis Cardinals,2,Boston Red Sox,1
+1967,St. Louis Cardinals,0,Boston Red Sox,5
+1967,Boston Red Sox,2,St. Louis Cardinals,5
+1967,Boston Red Sox,0,St. Louis Cardinals,6
+1967,Boston Red Sox,3,St. Louis Cardinals,1
+1967,St. Louis Cardinals,4,Boston Red Sox,8
+1967,St. Louis Cardinals,7,Boston Red Sox,2
+1968,Detroit Tigers,0,St. Louis Cardinals,4
+1968,Detroit Tigers,8,St. Louis Cardinals,1
+1968,St. Louis Cardinals,7,Detroit Tigers,3
+1968,St. Louis Cardinals,10,Detroit Tigers,1
+1968,St. Louis Cardinals,3,Detroit Tigers,5
+1968,Detroit Tigers,13,St. Louis Cardinals,1
+1968,Detroit Tigers,4,St. Louis Cardinals,1
+1969,New York Mets,1,Baltimore Orioles,4
+1969,New York Mets,2,Baltimore Orioles,1
+1969,Baltimore Orioles,0,New York Mets,5
+1969,Baltimore Orioles,1,New York Mets,2
+1969,Baltimore Orioles,3,New York Mets,5
+1970,Baltimore Orioles,4,Cincinnati Reds,3
+1970,Baltimore Orioles,6,Cincinnati Reds,5
+1970,Cincinnati Reds,3,Baltimore Orioles,9
+1970,Cincinnati Reds,6,Baltimore Orioles,5
+1970,Cincinnati Reds,3,Baltimore Orioles,9
+1971,Pittsburgh Pirates,3,Baltimore Orioles,5
+1971,Pittsburgh Pirates,3,Baltimore Orioles,11
+1971,Baltimore Orioles,1,Pittsburgh Pirates,5
+1971,Baltimore Orioles,3,Pittsburgh Pirates,4
+1971,Baltimore Orioles,0,Pittsburgh Pirates,4
+1971,Pittsburgh Pirates,2,Baltimore Orioles,3
+1971,Pittsburgh Pirates,2,Baltimore Orioles,1
+1972,Oakland Athletics,3,Cincinnati Reds,2
+1972,Oakland Athletics,2,Cincinnati Reds,1
+1972,Cincinnati Reds,1,Oakland Athletics,0
+1972,Cincinnati Reds,2,Oakland Athletics,3
+1972,Cincinnati Reds,5,Oakland Athletics,4
+1972,Oakland Athletics,1,Cincinnati Reds,8
+1972,Oakland Athletics,3,Cincinnati Reds,2
+1973,New York Mets,1,Oakland Athletics,2
+1973,New York Mets,10,Oakland Athletics,7
+1973,Oakland Athletics,3,New York Mets,2
+1973,Oakland Athletics,1,New York Mets,6
+1973,Oakland Athletics,0,New York Mets,2
+1973,New York Mets,1,Oakland Athletics,3
+1973,New York Mets,2,Oakland Athletics,5
+1974,Oakland Athletics,3,Los Angeles Dodgers,2
+1974,Oakland Athletics,2,Los Angeles Dodgers,3
+1974,Los Angeles Dodgers,2,Oakland Athletics,3
+1974,Los Angeles Dodgers,2,Oakland Athletics,5
+1974,Los Angeles Dodgers,2,Oakland Athletics,3
+1975,Cincinnati Reds,0,Boston Red Sox,6
+1975,Cincinnati Reds,3,Boston Red Sox,2
+1975,Boston Red Sox,5,Cincinnati Reds,6
+1975,Boston Red Sox,5,Cincinnati Reds,4
+1975,Boston Red Sox,2,Cincinnati Reds,6
+1975,Cincinnati Reds,6,Boston Red Sox,7
+1975,Cincinnati Reds,4,Boston Red Sox,3
+1976,New York Yankees,1,Cincinnati Reds,5
+1976,New York Yankees,3,Cincinnati Reds,4
+1976,Cincinnati Reds,6,New York Yankees,2
+1976,Cincinnati Reds,7,New York Yankees,2
+1977,Los Angeles Dodgers,3,New York Yankees,4
+1977,Los Angeles Dodgers,6,New York Yankees,1
+1977,New York Yankees,5,Los Angeles Dodgers,3
+1977,New York Yankees,4,Los Angeles Dodgers,2
+1977,New York Yankees,4,Los Angeles Dodgers,10
+1977,Los Angeles Dodgers,4,New York Yankees,8
+1978,New York Yankees,5,Los Angeles Dodgers,11
+1978,New York Yankees,3,Los Angeles Dodgers,4
+1978,Los Angeles Dodgers,1,New York Yankees,5
+1978,Los Angeles Dodgers,3,New York Yankees,4
+1978,Los Angeles Dodgers,2,New York Yankees,12
+1978,New York Yankees,7,Los Angeles Dodgers,2
+1979,Pittsburgh Pirates,4,Baltimore Orioles,5
+1979,Pittsburgh Pirates,3,Baltimore Orioles,2
+1979,Baltimore Orioles,8,Pittsburgh Pirates,4
+1979,Baltimore Orioles,9,Pittsburgh Pirates,6
+1979,Baltimore Orioles,1,Pittsburgh Pirates,7
+1979,Pittsburgh Pirates,4,Baltimore Orioles,0
+1979,Pittsburgh Pirates,4,Baltimore Orioles,1
+1980,Kansas City Royals,6,Philadelphia Phillies,7
+1980,Kansas City Royals,4,Philadelphia Phillies,6
+1980,Philadelphia Phillies,3,Kansas City Royals,4
+1980,Philadelphia Phillies,3,Kansas City Royals,5
+1980,Philadelphia Phillies,4,Kansas City Royals,3
+1980,Kansas City Royals,1,Philadelphia Phillies,4
+1981,Los Angeles Dodgers,3,New York Yankees,5
+1981,Los Angeles Dodgers,0,New York Yankees,3
+1981,New York Yankees,4,Los Angeles Dodgers,5
+1981,New York Yankees,7,Los Angeles Dodgers,8
+1981,New York Yankees,1,Los Angeles Dodgers,2
+1981,Los Angeles Dodgers,9,New York Yankees,2
+1982,Milwaukee Brewers,10,St. Louis Cardinals,0
+1982,Milwaukee Brewers,4,St. Louis Cardinals,5
+1982,St. Louis Cardinals,6,Milwaukee Brewers,2
+1982,St. Louis Cardinals,5,Milwaukee Brewers,7
+1982,St. Louis Cardinals,4,Milwaukee Brewers,6
+1982,Milwaukee Brewers,1,St. Louis Cardinals,13
+1982,Milwaukee Brewers,3,St. Louis Cardinals,6
+1983,Philadelphia Phillies,2,Baltimore Orioles,1
+1983,Philadelphia Phillies,1,Baltimore Orioles,4
+1983,Baltimore Orioles,3,Philadelphia Phillies,2
+1983,Baltimore Orioles,5,Philadelphia Phillies,4
+1983,Baltimore Orioles,5,Philadelphia Phillies,0
+1984,Detroit Tigers,3,San Diego Padres,2
+1984,Detroit Tigers,3,San Diego Padres,5
+1984,San Diego Padres,2,Detroit Tigers,5
+1984,San Diego Padres,2,Detroit Tigers,4
+1984,San Diego Padres,4,Detroit Tigers,8
+1985,St. Louis Cardinals,3,Kansas City Royals,1
+1985,St. Louis Cardinals,4,Kansas City Royals,2
+1985,Kansas City Royals,6,St. Louis Cardinals,1
+1985,Kansas City Royals,0,St. Louis Cardinals,3
+1985,Kansas City Royals,6,St. Louis Cardinals,1
+1985,St. Louis Cardinals,1,Kansas City Royals,2
+1985,St. Louis Cardinals,0,Kansas City Royals,11
+1986,Boston Red Sox,1,New York Mets,0
+1986,Boston Red Sox,9,New York Mets,3
+1986,New York Mets,7,Boston Red Sox,1
+1986,New York Mets,6,Boston Red Sox,2
+1986,New York Mets,2,Boston Red Sox,4
+1986,Boston Red Sox,5,New York Mets,6
+1986,Boston Red Sox,5,New York Mets,8
+1987,St. Louis Cardinals,1,Minnesota Twins,10
+1987,St. Louis Cardinals,4,Minnesota Twins,8
+1987,Minnesota Twins,1,St. Louis Cardinals,3
+1987,Minnesota Twins,2,St. Louis Cardinals,7
+1987,Minnesota Twins,2,St. Louis Cardinals,4
+1987,St. Louis Cardinals,5,Minnesota Twins,11
+1987,St. Louis Cardinals,2,Minnesota Twins,4
+1988,Oakland Athletics,4,Los Angeles Dodgers,5
+1988,Oakland Athletics,0,Los Angeles Dodgers,6
+1988,Los Angeles Dodgers,1,Oakland Athletics,2
+1988,Los Angeles Dodgers,4,Oakland Athletics,3
+1988,Los Angeles Dodgers,5,Oakland Athletics,2
+1989,San Francisco Giants,0,Oakland Athletics,5
+1989,San Francisco Giants,1,Oakland Athletics,5
+1989,Oakland Athletics,13,San Francisco Giants,7
+1989,Oakland Athletics,9,San Francisco Giants,6
+1990,Oakland Athletics,0,Cincinnati Reds,7
+1990,Oakland Athletics,4,Cincinnati Reds,5
+1990,Cincinnati Reds,8,Oakland Athletics,3
+1990,Cincinnati Reds,2,Oakland Athletics,1
+1991,Atlanta Braves,2,Minnesota Twins,5
+1991,Atlanta Braves,2,Minnesota Twins,3
+1991,Minnesota Twins,4,Atlanta Braves,5
+1991,Minnesota Twins,2,Atlanta Braves,3
+1991,Minnesota Twins,5,Atlanta Braves,14
+1991,Atlanta Braves,3,Minnesota Twins,4
+1991,Atlanta Braves,0,Minnesota Twins,1
+1992,Toronto Blue Jays,1,Atlanta Braves,3
+1992,Toronto Blue Jays,5,Atlanta Braves,4
+1992,Atlanta Braves,2,Toronto Blue Jays,3
+1992,Atlanta Braves,1,Toronto Blue Jays,2
+1992,Atlanta Braves,7,Toronto Blue Jays,2
+1992,Toronto Blue Jays,4,Atlanta Braves,3
+1993,Philadelphia Phillies,5,Toronto Blue Jays,8
+1993,Philadelphia Phillies,6,Toronto Blue Jays,4
+1993,Toronto Blue Jays,10,Philadelphia Phillies,3
+1993,Toronto Blue Jays,15,Philadelphia Phillies,14
+1993,Toronto Blue Jays,0,Philadelphia Phillies,2
+1993,Philadelphia Phillies,6,Toronto Blue Jays,8
+1995,Cleveland Indians,2,Atlanta Braves,3
+1995,Cleveland Indians,3,Atlanta Braves,4
+1995,Atlanta Braves,6,Cleveland Indians,7
+1995,Atlanta Braves,5,Cleveland Indians,2
+1995,Atlanta Braves,4,Cleveland Indians,5
+1995,Cleveland Indians,0,Atlanta Braves,1
+1996,Atlanta Braves,12,New York Yankees,1
+1996,Atlanta Braves,4,New York Yankees,0
+1996,New York Yankees,5,Atlanta Braves,2
+1996,New York Yankees,8,Atlanta Braves,6
+1996,New York Yankees,1,Atlanta Braves,0
+1996,Atlanta Braves,2,New York Yankees,3
+1997,Cleveland Indians,4,Florida Marlins,7
+1997,Cleveland Indians,6,Florida Marlins,1
+1997,Florida Marlins,14,Cleveland Indians,11
+1997,Florida Marlins,3,Cleveland Indians,10
+1997,Florida Marlins,8,Cleveland Indians,7
+1997,Cleveland Indians,4,Florida Marlins,1
+1997,Cleveland Indians,2,Florida Marlins,3
+1998,San Diego Padres,6,New York Yankees,9
+1998,San Diego Padres,3,New York Yankees,9
+1998,New York Yankees,5,San Diego Padres,4
+1998,New York Yankees,3,San Diego Padres,0
+1999,New York Yankees,4,Atlanta Braves,1
+1999,New York Yankees,7,Atlanta Braves,2
+1999,Atlanta Braves,5,New York Yankees,6
+1999,Atlanta Braves,1,New York Yankees,4
+2000,New York Mets,3,New York Yankees,4
+2000,New York Mets,5,New York Yankees,6
+2000,New York Yankees,2,New York Mets,4
+2000,New York Yankees,3,New York Mets,2
+2000,New York Yankees,4,New York Mets,2
+2001,New York Yankees,1,Arizona Diamondbacks,9
+2001,New York Yankees,0,Arizona Diamondbacks,4
+2001,Arizona Diamondbacks,1,New York Yankees,2
+2001,Arizona Diamondbacks,3,New York Yankees,4
+2001,Arizona Diamondbacks,2,New York Yankees,3
+2001,New York Yankees,2,Arizona Diamondbacks,15
+2001,New York Yankees,2,Arizona Diamondbacks,3
+2002,San Francisco Giants,4,Anaheim Angels,3
+2002,San Francisco Giants,10,Anaheim Angels,11
+2002,Anaheim Angels,10,San Francisco Giants,4
+2002,Anaheim Angels,3,San Francisco Giants,4
+2002,Anaheim Angels,4,San Francisco Giants,16
+2002,San Francisco Giants,5,Anaheim Angels,6
+2002,San Francisco Giants,1,Anaheim Angels,4
+2003,Florida Marlins,3,New York Yankees,2
+2003,Florida Marlins,1,New York Yankees,6
+2003,New York Yankees,6,Florida Marlins,1
+2003,New York Yankees,3,Florida Marlins,4
+2003,New York Yankees,4,Florida Marlins,6
+2003,Florida Marlins,2,New York Yankees,0
+2004,St. Louis Cardinals,9,Boston Red Sox,11
+2004,St. Louis Cardinals,2,Boston Red Sox,6
+2004,Boston Red Sox,4,St. Louis Cardinals,1
+2004,Boston Red Sox,3,St. Louis Cardinals,0
+2005,Houston Astros,3,Chicago White Sox,5
+2005,Houston Astros,6,Chicago White Sox,7
+2005,Chicago White Sox,7,Houston Astros,5
+2005,Chicago White Sox,1,Houston Astros,0
+2006,St. Louis Cardinals,7,Detroit Tigers,2
+2006,St. Louis Cardinals,1,Detroit Tigers,3
+2006,Detroit Tigers,0,St. Louis Cardinals,5
+2006,Detroit Tigers,4,St. Louis Cardinals,5
+2006,Detroit Tigers,2,St. Louis Cardinals,4
+2007,Colorado Rockies,1,Boston Red Sox,13
+2007,Colorado Rockies,1,Boston Red Sox,2
+2007,Boston Red Sox,10,Colorado Rockies,5
+2007,Boston Red Sox,4,Colorado Rockies,3
+2008,Philadelphia Phillies,3,Tampa Bay Rays,2
+2008,Philadelphia Phillies,2,Tampa Bay Rays,4
+2008,Tampa Bay Rays,4,Philadelphia Phillies,5
+2008,Tampa Bay Rays,2,Philadelphia Phillies,10
+2008,Tampa Bay Rays,3,Philadelphia Phillies,4
+2009,Philadelphia Phillies,6,New York Yankees,1
+2009,Philadelphia Phillies,1,New York Yankees,3
+2009,New York Yankees,8,Philadelphia Phillies,5
+2009,New York Yankees,7,Philadelphia Phillies,4
+2009,New York Yankees,6,Philadelphia Phillies,8
+2009,Philadelphia Phillies,3,New York Yankees,7
+2010,Texas Rangers,7,San Francisco Giants,11
+2010,Texas Rangers,0,San Francisco Giants,9
+2010,San Francisco Giants,2,Texas Rangers,4
+2010,San Francisco Giants,4,Texas Rangers,0
+2010,San Francisco Giants,3,Texas Rangers,1
+2011,Texas Rangers,2,St. Louis Cardinals,3
+2011,Texas Rangers,2,St. Louis Cardinals,1
+2011,St. Louis Cardinals,16,Texas Rangers,7
+2011,St. Louis Cardinals,0,Texas Rangers,4
+2011,St. Louis Cardinals,2,Texas Rangers,4
+2011,Texas Rangers,9,St. Louis Cardinals,10
+2011,Texas Rangers,2,St. Louis Cardinals,6
+2012,Detroit Tigers,3,San Francisco Giants,8
+2012,Detroit Tigers,0,San Francisco Giants,2
+2012,San Francisco Giants,2,Detroit Tigers,0
+2012,San Francisco Giants,4,Detroit Tigers,3
+2013,St. Louis Cardinals,1,Boston Red Sox,8
+2013,St. Louis Cardinals,4,Boston Red Sox,2
+2013,Boston Red Sox,4,St. Louis Cardinals,5
+2013,Boston Red Sox,4,St. Louis Cardinals,2
+2013,Boston Red Sox,3,St. Louis Cardinals,1
+2013,St. Louis Cardinals,1,Boston Red Sox,6
+2014,San Francisco Giants,7,Kansas City Royals,1
+2014,San Francisco Giants,2,Kansas City Royals,7
+2014,Kansas City Royals,3,San Francisco Giants,2
+2014,Kansas City Royals,4,San Francisco Giants,11
+2014,Kansas City Royals,0,San Francisco Giants,5
+2014,San Francisco Giants,0,Kansas City Royals,10
+2014,San Francisco Giants,3,Kansas City Royals,2
+2015,New York Mets,4,Kansas City Royals,5
+2015,New York Mets,1,Kansas City Royals,7
+2015,Kansas City Royals,3,New York Mets,9
+2015,Kansas City Royals,5,New York Mets,3

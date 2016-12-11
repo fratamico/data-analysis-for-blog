@@ -1,0 +1,25 @@
+from selenium import webdriver
+from selenium.common.exceptions import TimeoutException
+from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0
+import time
+
+# Create a new instance of the Firefox driver
+driver = webdriver.Firefox()
+
+# go to the google home page
+baseurl = "https://www.masteringphysics.com/site/login.html"
+driver.get(baseurl)
+
+username = "phys100ta"
+password = "ubcp100ta"
+
+inputElement = driver.find_element_by_name("nme")
+inputElement.send_keys(username)
+
+inputElement = driver.find_element_by_name("pwd")
+inputElement.send_keys(password)
+
+
+inputElement.submit()
+
+
